@@ -1,0 +1,67 @@
+Resume
+
+Mujeeba Zainab Khan
+Software Developer
+
+Address: Nandura, India 443404
+	433, Siddikiya nagar behind Railway Gate, Nandura Dist. Buldhana (MH)
+Phone: 9752336615
+Email: mzainabk212@gmail.com
+
+mzainabk212@gmail.com
+Mujeeba@78692
+
+Professional Summary:
+	Self motivated and hard working Programmer, with expertise in managing priorities to meet deadlines and realize high quality outcomes. Committed to establishing credibility with associates and managers. Strong conceptual thinking skills and new concepts acquisition. Willingness to take on added responsibilities to meet team goals, and always up for adapting new technologies.
+	
+Skills:
+	Web Technologies - C++, Core Java, Spring, Restful web services, Microservices(Basic), Servlet, Html, CSS, Apache Tomcat
+	Tools and Utilities - EClipse IDE, STS, GitHub, Postman, DBeaver, Putty, WinSCP, JaCoCo, JNDI Configuration in Spring
+	Frameworks - Spring MVC, Spring Boot, Hibernate
+	Database - MySQL5
+	Cloud - Azure AD (Basic + Graph APIs)
+	Strategic Planning and Execution
+	Consultancy and advisory
+	Presenting information
+	
+Work History:
+2021-07 - 2023-07
+
+Associate Consultant
+Yash Technologies Pvt. Ltd.
+	Compiled research data and gave professional presentations highlighting finds and recommended optimizations.
+	Having 24 months of total IT and work experience in Java and Advance Java.
+	Evaluated diverse organizational systems to identify workflow, communication and resource utilization issues.
+	Delivered outstanding service to clients to maintain and extend relationship for future business opportunities.
+	Supported clients with business analysis, documentation and data modelling.
+	Have good experience in dealing with international clients, worked on international project with 8 teammates for a year.
+	Ability to work optimally under scheduled deadlines and have passion for delivering high quality output.
+	Handled several modules independently and also assissted team members in the hour of need.
+	Having knowledge in Microsoft technologies like C++, Java, Spring Boot and also in creating UI using Visual Studio.
+	Enthusiastically participated in all the project related meetings.
+	Provided Knowledge Transfer sessions to the team members.
+	Deployed applications on UAT and PROD servers (Apache Tomcat).
+	Led the meetings of 6 teammates to understand and manage the flow of internal project during our technical training.
+	
+Education:
+2014-08 - 2018-05
+Bachelor of Engineering: Computer Science
+Medicaps Institute of Science and Technology - Indore, India
+	8.38 CGPA
+	Industrial Training, Zensar Technologies, Completed - 2017
+	Major Project (Web based), Rent the Backpack - 
+	This project serves those who require temporary goods because there may not be a need to buy them, if they need it for limited period of time. Hence availability of such goods at rent would ease the shopping. The goods include books, costumes, electronic equipment etc. The user can upload the new item for rent as well as can rent the available products.
+	(09/2017-04/2018)
+	
+Languages:
+	English
+	Hindi 
+	Urdu
+	
+Interests
+	Cake Baking
+	Travelling new places
+	Playing Chess and Badminton
+	
+	
+	
